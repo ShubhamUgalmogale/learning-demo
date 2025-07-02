@@ -1,2 +1,2 @@
 # learning-demo
-This is my first repisitory
+This is my first git repository
