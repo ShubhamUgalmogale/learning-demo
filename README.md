@@ -1,3 +1,3 @@
 # learning-demo
 This is my first git repository
-Author - Shubham (Dattatray Ugalmogale)
+Author - Shubham Ugalmogale
